@@ -8,7 +8,10 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #fbfbfb;
-  background-image: url("https://www.planwallpaper.com/static/images/kartandtinki1_photo-wallpapers_02.jpg"); }
+  background-image: url("https://www.planwallpaper.com/static/images/kartandtinki1_photo-wallpapers_02.jpg");
+  background-repeat: no-repeat;
+  background-position: center; }
+}
 
 a {
   color: #1e6bb8;
